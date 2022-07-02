@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/arihanv/new-test-pages.git/static/css/main.073c9b0a.css",
+    "main.js": "/arihanv/new-test-pages.git/static/js/main.d59695be.js",
+    "static/js/787.394a1b18.chunk.js": "/arihanv/new-test-pages.git/static/js/787.394a1b18.chunk.js",
+    "static/media/logo.svg": "/arihanv/new-test-pages.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/arihanv/new-test-pages.git/index.html",
+    "main.073c9b0a.css.map": "/arihanv/new-test-pages.git/static/css/main.073c9b0a.css.map",
+    "main.d59695be.js.map": "/arihanv/new-test-pages.git/static/js/main.d59695be.js.map",
+    "787.394a1b18.chunk.js.map": "/arihanv/new-test-pages.git/static/js/787.394a1b18.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d59695be.js"
+  ]
+}
